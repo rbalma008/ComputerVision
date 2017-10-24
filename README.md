@@ -1,1 +1,1 @@
-# ComputerVision
+For the computer vision assignment I worked with one of the examples; the motion detection one specifically, and made a kind of multi-colored inception vibe with videos within videos. The mouseX position dictating the width of the video let me make many pictures in one and I had fun creating a lot of screenshots of some collaged video art.
